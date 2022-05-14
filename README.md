@@ -6,4 +6,4 @@ Road Side Assistance is the application that will help person to find any servic
 Location based vehicle service is the web application that will help person to find any service provider if their vehicle is immobilized due to an accident or electrical/ mechanical failure, the vehicle is towed free to nearest garage up too few kilometres. The Location based vehicle service application will be developed with the aim of providing emergency road side assistance services round the clock to ensure a pleasurable and uninterrupted journey virtually anywhere.
 
 
-<embed src="App Screenshot.pdf" width="800px" height="2100px" />
+ <iframe src="App Screenshot.pdf" width="100%" height="500px">
